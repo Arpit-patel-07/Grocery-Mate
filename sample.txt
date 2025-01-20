@@ -1,0 +1,5 @@
+<input type="hidden" value="${sellerProduct.sellerProductId}" id="seller_product_id">
+<input type="hidden" value="${sellerProduct.dinomination.product.productId}" id="product_id">
+<input type="hidden" value="${sellerProduct.dinomination.product.name}" id="name">
+<input type="hidden" value="${sellerProduct.quantity}" id="quantity">
+<input type="hidden" value="${sellerProduct.discount}" id="discount">
